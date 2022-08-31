@@ -104,8 +104,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let tabBarController = UITabBarController()
         tabBarController.viewControllers = [homeVC, orderNC, rewardsAndDealsNC, dealCodeNC, moreNC]
         
-//        window?.rootViewController = HomeViewController()
-        
         tabBarController.tabBar.tintColor = UIColor(named: "macdonaldsColor")
         tabBarController.tabBar.isTranslucent = false
         
