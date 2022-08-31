@@ -33,7 +33,7 @@ extension RewardsAndDealsTileView {
         imageView.contentMode = .scaleAspectFill
         imageView.clipsToBounds = true
         imageView.layer.cornerRadius = 7
-        imageView.image = UIImage(named: "5")
+        imageView.image = UIImage(named: "6")
         
         headerLabel.translatesAutoresizingMaskIntoConstraints = false
         headerLabel.font = .systemFont(ofSize: 23, weight: .heavy)
@@ -47,7 +47,7 @@ extension RewardsAndDealsTileView {
         
         bodyLabel.translatesAutoresizingMaskIntoConstraints = false
         bodyLabel.font = .systemFont(ofSize: 17, weight: .heavy)
-        bodyLabel.text = "On everything you love"
+        bodyLabel.text = "I'm lovin' it"
         bodyLabel.textColor = .black
         
         button.translatesAutoresizingMaskIntoConstraints = false
