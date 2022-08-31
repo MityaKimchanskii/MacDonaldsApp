@@ -13,7 +13,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/MityaKimchanskii/Starbucks/blob/main/Starbucks.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/MityaKimchanskii/MacDonaldsApp/blob/main/macdonalds.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
